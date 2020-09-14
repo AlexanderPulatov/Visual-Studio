@@ -11,7 +11,7 @@ int main()
 	int c;
 	do
 	{
-		cout << endl;
+		cout <<"ѕервый коммит в GitHub. Vetka 2.0"<< endl;
 		cout << "¬ведите" << endl;
 		cout << "1-задание 1" << endl;
 		cout << "2-задание 2" << endl;
